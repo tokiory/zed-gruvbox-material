@@ -5,4 +5,4 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 Special thanks to [sainnhe](https://github.com/sainnhe) for the original [Gruvbox Material](https://github.com/sainnhe/gruvbox-material) theme.
 
-![Frame 1 (1)](https://github.com/user-attachments/assets/9fbe69f3-1ce3-452c-b915-e386b0766f26)
+![Group 1](https://github.com/user-attachments/assets/99a181b7-66e8-49eb-a8fb-d0f4ff4c8bdc)
