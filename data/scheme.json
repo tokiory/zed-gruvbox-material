@@ -1,0 +1,385 @@
+{
+  "name": "Gruvbox Material",
+  "author": "tokiory <tokiory.work@gmail.com>",
+  "themes": [
+    {
+      "name": "Gruvbox Material",
+      "appearance": "dark",
+      "style": {
+        "border": "{{border}}ff",
+        "border.variant": "{{bg}}ff",
+        "border.focused": null,
+        "border.selected": null,
+        "border.transparent": null,
+        "border.disabled": null,
+        "elevated_surface.background": "{{bg3}}",
+        "surface.background": "{{bg}}",
+        "background": "{{bg}}",
+        "element": {
+          "background": "{{bg}}",
+          "hover": "{{bg3}}",
+          "active": "{{bg7}}",
+          "selected": "{{bg7}}",
+          "disabled": "{{bg1}}"
+        },
+        "ghost_element": {
+          "background": "{{bg}}",
+          "hover": "{{bg3}}",
+          "active": "{{bg7}}",
+          "selected": "{{bg7}}",
+          "disabled": "{{bg1}}"
+        },
+        "drop_target.background": "{{bg5}}",
+        "text": "{{fg}}",
+        "text.muted": "{{grey1}}",
+        "text.placeholder": "{{grey1}}",
+        "text.disabled": "{{grey1}}",
+        "text.accent": "{{blue}}",
+        "icon": "{{fg}}",
+        "icon.muted": "{{grey0}}",
+        "icon.disabled": "{{grey1}}",
+        "icon.placeholder": "{{grey0}}",
+        "icon.accent": "{{blue}}",
+        "status_bar.background": "{{bg}}",
+        "title_bar.background": "{{bg}}",
+        "title_bar.inactive_background": "{{bg}}",
+        "toolbar.background": "{{bg}}",
+        "tab_bar.background": "{{bg}}",
+        "tab.inactive_background": "{{bg}}",
+        "tab.active_background": "{{bg}}",
+        "search.match_background": "{{bg5}}",
+        "panel.background": "{{bg}}",
+        "panel.focused_border": null,
+        "pane.focused_border": null,
+        "scrollbar.thumb.background": "{{bg5}}",
+        "scrollbar.thumb.hover_background": "{{bg5}}",
+        "scrollbar.thumb.border": "{{border}}",
+        "scrollbar.track.background": "#00000000",
+        "scrollbar.track.border": "{{border}}",
+        "editor.foreground": "{{fg}}",
+        "editor.background": "{{bg}}",
+        "editor.gutter.background": "{{bg}}",
+        "editor.subheader.background": "{{bg}}",
+        "editor.active_line.background": "{{bg2}}",
+        "editor.highlighted_line.background": "{{darkBlue}}",
+        "editor.line_number": "{{bg7}}",
+        "editor.active_line_number": "{{fg}}",
+        "editor.invisible": "{{grey1}}",
+        "editor.wrap_guide": "{{border}}",
+        "editor.active_wrap_guide": "{{border}}80",
+        "editor.document_highlight.read_background": "{{bg5}}",
+        "editor.document_highlight.write_background": "{{grey0}}",
+        "link_text.hover": "{{blue}}",
+        "conflict": "{{yellow}}",
+        "conflict.background": "{{red}}",
+        "conflict.border": "{{border}}",
+        "created": "{{green}}",
+        "created.background": "{{bg}}",
+        "created.border": "{{border}}",
+        "deleted": "{{red}}",
+        "deleted.background": "{{bg}}",
+        "deleted.border": "{{border}}",
+        "error": "{{darkRed}}",
+        "error.background": "{{red}}1a",
+        "error.border": "{{border}}",
+        "hidden": "{{grey1}}",
+        "hidden.background": "{{bg}}",
+        "hidden.border": "{{border}}",
+        "hint": "{{darkBlue}}",
+        "hint.background": "{{bg}}",
+        "hint.border": "{{border}}",
+        "ignored": "{{grey1}}",
+        "ignored.background": "{{grey}}1a",
+        "ignored.border": "{{border}}",
+        "info": "{{blue}}",
+        "info.background": "{{bg}}",
+        "info.border": "{{border}}",
+        "modified": "{{yellow}}",
+        "modified.background": "{{bg}}",
+        "modified.border": "{{border}}",
+        "predictive": "{{purple}}",
+        "predictive.background": "{{bg}}",
+        "predictive.border": "{{border}}",
+        "renamed": "{{blue}}",
+        "renamed.background": "{{blue}}1a",
+        "renamed.border": "{{border}}",
+        "success": "{{green}}",
+        "success.background": "{{bg}}",
+        "success.border": "{{border}}",
+        "unreachable": "{{grey0}}",
+        "unreachable.background": "{{bg}}",
+        "unreachable.border": "{{border}}",
+        "warning": "{{yellow}}",
+        "warning.background": "{{yellow}}1a",
+        "warning.border": "{{border}}",
+        "players": [
+          {
+            "cursor": "{{blue}}",
+            "background": "{{blue}}40",
+            "selection": "{{blue}}59"
+          },
+          {
+            "cursor": "{{purple}}",
+            "background": "{{purple}}40",
+            "selection": "{{purple}}59"
+          },
+          {
+            "cursor": "{{darkPurple}}",
+            "background": "{{darkPurple}}40",
+            "selection": "{{darkPurple}}59"
+          },
+          {
+            "cursor": "{{orange}}",
+            "background": "{{orange}}40",
+            "selection": "{{orange}}59"
+          },
+          {
+            "cursor": "{{aqua}}",
+            "background": "{{aqua}}40",
+            "selection": "{{aqua}}59"
+          },
+          {
+            "cursor": "{{red}}",
+            "background": "{{red}}40",
+            "selection": "{{red}}59"
+          },
+          {
+            "cursor": "{{yellow}}",
+            "background": "{{yellow}}40",
+            "selection": "{{yellow}}59"
+          },
+          {
+            "cursor": "{{green}}",
+            "background": "{{green}}40",
+            "selection": "{{green}}59"
+          }
+        ],
+        "syntax": {
+          "attribute": {
+            "color": "{{blue}}",
+            "font_style": null,
+            "font_weight": null
+          },
+          "boolean": {
+            "color": "{{darkPurple}}",
+            "font_style": null,
+            "font_weight": null
+          },
+          "comment": {
+            "color": "{{grey0}}",
+            "font_style": "italic",
+            "font_weight": null
+          },
+          "comment.doc": {
+            "color": "{{grey1}}",
+            "font_style": "italic",
+            "font_weight": 700
+          },
+          "constant": {
+            "color": "{{purple}}",
+            "font_style": null,
+            "font_weight": null
+          },
+          "constructor": {
+            "color": "{{aqua}}",
+            "font_style": null,
+            "font_weight": null
+          },
+          "embedded": {
+            "color": "{{fg}}",
+            "font_style": null,
+            "font_weight": null
+          },
+          "emphasis": {
+            "color": "{{blue}}",
+            "font_style": null,
+            "font_weight": null
+          },
+          "emphasis.strong": {
+            "color": "{{darkPurple}}",
+            "font_style": null,
+            "font_weight": 700
+          },
+          "enum": {
+            "color": "{{red}}",
+            "font_style": null,
+            "font_weight": null
+          },
+          "function": {
+            "color": "{{aqua}}",
+            "font_style": null,
+            "font_weight": null
+          },
+          "hint": {
+            "color": "{{darkBlue}}",
+            "font_style": null,
+            "font_weight": 700
+          },
+          "keyword": {
+            "color": "{{blue}}",
+            "font_style": "italic",
+            "font_weight": null
+          },
+          "label": {
+            "color": "{{blue}}",
+            "font_style": null,
+            "font_weight": null
+          },
+          "link_text": {
+            "color": "{{aqua}}",
+            "font_style": "normal",
+            "font_weight": null
+          },
+          "link_uri": {
+            "color": "{{aqua}}",
+            "font_style": null,
+            "font_weight": null
+          },
+          "number": {
+            "color": "{{darkPurple}}",
+            "font_style": null,
+            "font_weight": null
+          },
+          "operator": {
+            "color": "{{aqua}}",
+            "font_style": null,
+            "font_weight": null
+          },
+          "predictive": {
+            "color": "{{purple}}",
+            "font_style": "italic",
+            "font_weight": null
+          },
+          "preproc": {
+            "color": "{{fg}}",
+            "font_style": null,
+            "font_weight": null
+          },
+          "primary": {
+            "color": "{{fg}}",
+            "font_style": null,
+            "font_weight": null
+          },
+          "property": {
+            "color": "{{red}}",
+            "font_style": null,
+            "font_weight": null
+          },
+          "punctuation": {
+            "color": "{{fg}}",
+            "font_style": null,
+            "font_weight": null
+          },
+          "punctuation.bracket": {
+            "color": "{{fg1}}",
+            "font_style": null,
+            "font_weight": null
+          },
+          "punctuation.delimiter": {
+            "color": "{{fg1}}",
+            "font_style": null,
+            "font_weight": null
+          },
+          "punctuation.list_marker": {
+            "color": "{{red}}",
+            "font_style": null,
+            "font_weight": null
+          },
+          "punctuation.special": {
+            "color": "{{fg1}}",
+            "font_style": null,
+            "font_weight": null
+          },
+          "string": {
+            "color": "{{green}}",
+            "font_style": null,
+            "font_weight": null
+          },
+          "string.escape": {
+            "color": "{{grey1}}",
+            "font_style": null,
+            "font_weight": null
+          },
+          "string.regex": {
+            "color": "{{darkPurple}}",
+            "font_style": null,
+            "font_weight": null
+          },
+          "string.special": {
+            "color": "{{darkPurple}}",
+            "font_style": null,
+            "font_weight": null
+          },
+          "string.special.symbol": {
+            "color": "{{darkPurple}}",
+            "font_style": null,
+            "font_weight": null
+          },
+          "tag": {
+            "color": "{{blue}}",
+            "font_style": null,
+            "font_weight": null
+          },
+          "text.literal": {
+            "color": "{{green}}",
+            "font_style": null,
+            "font_weight": null
+          },
+          "title": {
+            "color": "{{red}}",
+            "font_style": null,
+            "font_weight": 400
+          },
+          "type": {
+            "color": "{{aqua}}",
+            "font_style": null,
+            "font_weight": null
+          },
+          "variable": {
+            "color": "{{fg}}",
+            "font_style": null,
+            "font_weight": null
+          },
+          "variable.special": {
+            "color": "{{darkPurple}}",
+            "font_style": null,
+            "font_weight": null
+          },
+          "variant": {
+            "color": "{{aqua}}",
+            "font_style": null,
+            "font_weight": null
+          }
+        },
+        "terminal.background": "{{bg}}ff",
+        "terminal.foreground": "{{fg}}ff",
+        "terminal.bright_foreground": "{{fg}}ff",
+        "terminal.dim_foreground": "{{bg}}ff",
+        "terminal.ansi.black": "{{bg}}ff",
+        "terminal.ansi.bright_black": "{{bg7}}ff",
+        "terminal.ansi.dim_black": "{{fg}}ff",
+        "terminal.ansi.red": "{{red}}ff",
+        "terminal.ansi.bright_red": "{{red}}ff",
+        "terminal.ansi.dim_red": "{{darkRed}}ff",
+        "terminal.ansi.green": "{{green}}ff",
+        "terminal.ansi.bright_green": "{{green}}ff",
+        "terminal.ansi.dim_green": "{{darkGreen}}ff",
+        "terminal.ansi.yellow": "{{yellow}}ff",
+        "terminal.ansi.bright_yellow": "{{yellow}}ff",
+        "terminal.ansi.dim_yellow": "{{darkRed}}ff",
+        "terminal.ansi.blue": "{{blue}}ff",
+        "terminal.ansi.bright_blue": "{{blue}}ff",
+        "terminal.ansi.dim_blue": "{{darkBlue}}ff",
+        "terminal.ansi.magenta": "{{purple}}ff",
+        "terminal.ansi.bright_magenta": "{{purple}}ff",
+        "terminal.ansi.dim_magenta": "{{darkPurple}}ff",
+        "terminal.ansi.cyan": "{{aqua}}ff",
+        "terminal.ansi.bright_cyan": "{{aqua}}ff",
+        "terminal.ansi.dim_cyan": "{{darkAqua}}ff",
+        "terminal.ansi.white": "{{fg}}ff",
+        "terminal.ansi.bright_white": "{{fg}}ff",
+        "terminal.ansi.dim_white": "{{fg1}}ff"
+      }
+    }
+  ]
+}
