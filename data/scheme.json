@@ -115,43 +115,43 @@
         "players": [
           {
             "cursor": "{{blue}}",
-            "background": "{{blue}}40",
-            "selection": "{{blue}}59"
+            "background": "{{blue}}20",
+            "selection": "{{blue}}30"
           },
           {
             "cursor": "{{purple}}",
-            "background": "{{purple}}40",
-            "selection": "{{purple}}59"
+            "background": "{{purple}}20",
+            "selection": "{{purple}}30"
           },
           {
             "cursor": "{{darkPurple}}",
-            "background": "{{darkPurple}}40",
-            "selection": "{{darkPurple}}59"
+            "background": "{{darkPurple}}20",
+            "selection": "{{darkPurple}}30"
           },
           {
             "cursor": "{{orange}}",
-            "background": "{{orange}}40",
-            "selection": "{{orange}}59"
+            "background": "{{orange}}20",
+            "selection": "{{orange}}30"
           },
           {
             "cursor": "{{aqua}}",
-            "background": "{{aqua}}40",
-            "selection": "{{aqua}}59"
+            "background": "{{aqua}}20",
+            "selection": "{{aqua}}30"
           },
           {
             "cursor": "{{red}}",
-            "background": "{{red}}40",
-            "selection": "{{red}}59"
+            "background": "{{red}}20",
+            "selection": "{{red}}30"
           },
           {
             "cursor": "{{yellow}}",
-            "background": "{{yellow}}40",
-            "selection": "{{yellow}}59"
+            "background": "{{yellow}}20",
+            "selection": "{{yellow}}30"
           },
           {
             "cursor": "{{green}}",
-            "background": "{{green}}40",
-            "selection": "{{green}}59"
+            "background": "{{green}}20",
+            "selection": "{{green}}30"
           }
         ],
         "syntax": {

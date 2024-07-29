@@ -115,43 +115,43 @@
         "players": [
           {
             "cursor": "#7daea3",
-            "background": "#7daea340",
-            "selection": "#7daea359"
+            "background": "#7daea320",
+            "selection": "#7daea330"
           },
           {
             "cursor": "#d3869b",
-            "background": "#d3869b40",
-            "selection": "#d3869b59"
+            "background": "#d3869b20",
+            "selection": "#d3869b30"
           },
           {
             "cursor": "#ab6c7d",
-            "background": "#ab6c7d40",
-            "selection": "#ab6c7d59"
+            "background": "#ab6c7d20",
+            "selection": "#ab6c7d30"
           },
           {
             "cursor": "#e78a4e",
-            "background": "#e78a4e40",
-            "selection": "#e78a4e59"
+            "background": "#e78a4e20",
+            "selection": "#e78a4e30"
           },
           {
             "cursor": "#89b482",
-            "background": "#89b48240",
-            "selection": "#89b48259"
+            "background": "#89b48220",
+            "selection": "#89b48230"
           },
           {
             "cursor": "#ea6962",
-            "background": "#ea696240",
-            "selection": "#ea696259"
+            "background": "#ea696220",
+            "selection": "#ea696230"
           },
           {
             "cursor": "#d8a657",
-            "background": "#d8a65740",
-            "selection": "#d8a65759"
+            "background": "#d8a65720",
+            "selection": "#d8a65730"
           },
           {
             "cursor": "#a9b665",
-            "background": "#a9b66540",
-            "selection": "#a9b66559"
+            "background": "#a9b66520",
+            "selection": "#a9b66530"
           }
         ],
         "syntax": {
