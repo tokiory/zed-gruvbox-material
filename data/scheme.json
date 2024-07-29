@@ -89,7 +89,7 @@
         "hint.background": "{{bg}}",
         "hint.border": "{{border}}",
         "ignored": "{{grey1}}",
-        "ignored.background": "{{grey}}1a",
+        "ignored.background": "{{bg}}",
         "ignored.border": "{{border}}",
         "info": "{{blue}}",
         "info.background": "{{bg}}",
