@@ -71,59 +71,59 @@
         "link_text.hover": "#7daea3",
 
         "conflict": "#89b482",
-        "conflict.background": "#4e664ad3",
+        "conflict.background": "#4e664a33",
         "conflict.border": "#444343",
 
         "created": "#a9b665",
-        "created.background": "#8f9a52d3",
+        "created.background": "#8f9a5233",
         "created.border": "#444343",
 
         "deleted": "#ea6962",
-        "deleted.background": "#b85651d3",
+        "deleted.background": "#b8565133",
         "deleted.border": "#444343",
 
         "error": "#ea6962",
-        "error.background": "#b85651d3",
+        "error.background": "#b8565133",
         "error.border": "#444343",
 
         "hidden": "#928374",
-        "hidden.background": "#292828",
+        "hidden.background": "#29282833",
         "hidden.border": "#444343",
 
         "hint": "#7daea3",
-        "hint.background": "#68948ad3",
+        "hint.background": "#68948a33",
         "hint.border": "#444343",
 
         "ignored": "#928374",
-        "ignored.background": "#292828",
+        "ignored.background": "#29282833",
         "ignored.border": "#444343",
 
         "info": "#7daea3",
-        "info.background": "#383432",
+        "info.background": "#38343233",
         "info.border": "#444343",
 
         "modified": "#d8a657",
-        "modified.background": "#c18f41d3",
+        "modified.background": "#c18f4133",
         "modified.border": "#444343",
 
         "predictive": "#d3869b",
-        "predictive.background": "#ab6c7dd3",
+        "predictive.background": "#ab6c7d33",
         "predictive.border": "#444343",
 
         "renamed": "#7daea3",
-        "renamed.background": "#68948ad3",
+        "renamed.background": "#68948a33",
         "renamed.border": "#444343",
 
         "success": "#a9b665",
-        "success.background": "#8f9a52d3",
+        "success.background": "#8f9a5233",
         "success.border": "#444343",
 
         "unreachable": "#7c6f64",
-        "unreachable.background": "#292828",
+        "unreachable.background": "#29282833",
         "unreachable.border": "#444343",
 
         "warning": "#d8a657",
-        "warning.background": "#c18f41d3",
+        "warning.background": "#c18f4133",
         "warning.border": "#444343",
 
         "players": [

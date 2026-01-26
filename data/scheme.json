@@ -71,59 +71,59 @@
         "link_text.hover": "{{blue}}",
 
         "conflict": "{{aqua}}",
-        "conflict.background": "{{darkAqua}}d3",
+        "conflict.background": "{{darkAqua}}33",
         "conflict.border": "{{border}}",
 
         "created": "{{green}}",
-        "created.background": "{{darkGreen}}d3",
+        "created.background": "{{darkGreen}}33",
         "created.border": "{{border}}",
 
         "deleted": "{{red}}",
-        "deleted.background": "{{darkRed}}d3",
+        "deleted.background": "{{darkRed}}33",
         "deleted.border": "{{border}}",
 
         "error": "{{red}}",
-        "error.background": "{{darkRed}}d3",
+        "error.background": "{{darkRed}}33",
         "error.border": "{{border}}",
 
         "hidden": "{{grey1}}",
-        "hidden.background": "{{bg}}",
+        "hidden.background": "{{bg}}33",
         "hidden.border": "{{border}}",
 
         "hint": "{{blue}}",
-        "hint.background": "{{darkBlue}}d3",
+        "hint.background": "{{darkBlue}}33",
         "hint.border": "{{border}}",
 
         "ignored": "{{grey1}}",
-        "ignored.background": "{{bg}}",
+        "ignored.background": "{{bg}}33",
         "ignored.border": "{{border}}",
 
         "info": "{{blue}}",
-        "info.background": "{{bg3}}",
+        "info.background": "{{bg3}}33",
         "info.border": "{{border}}",
 
         "modified": "{{yellow}}",
-        "modified.background": "{{darkYellow}}d3",
+        "modified.background": "{{darkYellow}}33",
         "modified.border": "{{border}}",
 
         "predictive": "{{purple}}",
-        "predictive.background": "{{darkPurple}}d3",
+        "predictive.background": "{{darkPurple}}33",
         "predictive.border": "{{border}}",
 
         "renamed": "{{blue}}",
-        "renamed.background": "{{darkBlue}}d3",
+        "renamed.background": "{{darkBlue}}33",
         "renamed.border": "{{border}}",
 
         "success": "{{green}}",
-        "success.background": "{{darkGreen}}d3",
+        "success.background": "{{darkGreen}}33",
         "success.border": "{{border}}",
 
         "unreachable": "{{grey0}}",
-        "unreachable.background": "{{bg}}",
+        "unreachable.background": "{{bg}}33",
         "unreachable.border": "{{border}}",
 
         "warning": "{{yellow}}",
-        "warning.background": "{{darkYellow}}d3",
+        "warning.background": "{{darkYellow}}33",
         "warning.border": "{{border}}",
 
         "players": [
