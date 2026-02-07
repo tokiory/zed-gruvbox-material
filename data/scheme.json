@@ -18,7 +18,7 @@
         "element.background": "{{bg}}",
         "element.hover": "{{bg3}}ff",
         "element.active": "{{bg4}}ff",
-        "element.selected": "{{bg2}}ff",
+        "element.selected": "{{selBlue}}ff",
         "element.disabled": "{{grey0}}d3",
         "ghost_element.background": null,
         "ghost_element.hover": "{{bg5}}ff",
